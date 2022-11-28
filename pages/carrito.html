@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style/carrito.css">
+    <title>FastKart.</title>
+</head>
+
+<body>
+    <header>
+        <header>
+            <nav class="navbar1">
+                <p>Something you love in now on sale! <span>Buy Now!</span></p>
+                <div class="language">
+                    <div class="languageMoneda">
+                        <img src="../images/united-states.png" alt="banderita USA">
+                        <span>English</span>
+                        <span>USD</span>
+                    </div>
+                </div>
+            </nav>
+            <div class="navbar2">
+                <img class="logo" src="../images/logo.png" alt="">
+                <button class="btnNav2"><img class="icon ubicate"
+                        src="../images/location_on_FILL0_wght400_GRAD0_opsz48.png" alt=""></button>
+                <form id="form" action="">
+                    <input id="search" type="search" placeholder="I'm searching for...">
+                    <button class="btnNav2 busqueda" type="submit"><img class="icon"
+                            src="../images/search_FILL0_wght400_GRAD0_opsz48.png" alt="lupa"></button>
+                </form>
+                <div>
+                    <button class="btnNav2"><img class="icon" src="../images/call_FILL0_wght400_GRAD0_opsz48.png"
+                            alt=""></button>
+                    <button class="btnNav2"><a href="../pages/favorite.html"><img class="icon"
+                                src="../images/favorite_FILL0_wght400_GRAD0_opsz48.png" alt=""></a></button>
+                    <button class="btnNav2"><img class="icon"
+                            src="../images/shopping_cart_FILL0_wght400_GRAD0_opsz48.png" alt=""></button>
+                    <button class="btnNav2"><a href="../pages/administrador.html"><img class="icon"
+                                src="../images/person_FILL0_wght400_GRAD0_opsz48.png"></a></button>
+                </div>
+            </div>
+            <div class="Navbar3">
+                <button class="allCategories"><img class="icon" src="../images/sort_FILL0_wght400_GRAD0_opsz48.png"
+                        alt=""><span>all Categories </span> </button>
+                <ul>
+                    <li>Home</li>
+                    <li>Shop</li>
+                    <li>Product</li>
+                    <li>Mega Menu</li>
+                    <li>Blog</li>
+                    <li>Pages</li>
+                    <li>Contact</li>
+                </ul>
+                <button class="rayito"><img class=" rayo" src="../images/thunder-icon.png" width="20px" height="20px"
+                        alt=""></button>
+
+            </div>
+            <main>
+                <div class="admin" >
+                    <h2>carrito</h2>
+                    <a href="../index.html"><img class="icon"src="https://img2.freepng.es/20190404/orl/kisspng-computer-icons-clip-art-portable-network-graphics-home-svg-png-icon-free-download-132968-online-5ca5a1598ee553.0525325615543586175853.jpg" alt="home"></a>
+                </div>
+
+
+                <section id="container">
+                    <article class="card">
+                       
+                        <img src="https://jumbocolombiaio.vtexassets.com/arquivos/ids/186795-1600-1600?v=637813983217030000&width=1600&height=1600&aspect=true"
+                            alt="imagen">
+                        <div class="textCard">
+                            <h6>Snacks</h6>
+                            <h5>Vino </h5>
+                            <span>$3000</span>
+                            <button class="btn btn--menos"name="${element.id}">-</button>
+                            <span id="${element.id}">1</span>
+                            <button class="btn btn--plus"name="">+</button>
+                            <button class="btnDelete" name="${element.id}">X</button>
+                           
+                    </article>
+
+                </section>
+                
+                
+            </main>
+            <button id="btnShowForm" type="submit">Process To Checkout</button>
+                <aside id="containerForm" class="hidden asideAdm">
+                    <form id="form">
+                        <input class="input" type="text" placeholder="Nombre" name="name">
+                        <input class="input" type="text" placeholder="Direccion" name="adress">
+                        <input class="input" type="number" placeholder="Telefono" name="phone">
+                        <button class="btnSubmit" type="submit">Guardar</button>
+
+
+                    </form>
+                </aside>
+            <footer>
+                <div>
+                    <p>
+                    <h2>Fast<span>Kart</span>.</h2>
+                    In publishing and graphic <br>
+                    design Lorem ipsum is a <br>
+                    placeholder text commonly <br>
+                    used to demonstrate the visual <br>
+                    form.
+                    </p>
+                    <p>
+                        1418 Riverwood Drive, CA <br>
+                        96052. US
+                    </p>
+                    <p>support@fastkart.com</p>
+                </div>
+                <div>
+                    <ul>
+                        <h3>Categories</h3>
+                        <li>Vegetables & Fruit</li>
+                        <li>Beverages</li>
+                        <li>Meats & Seafood</li>
+                        <li>Frozen Foods</li>
+                        <li>Biscuits & Snacks</li>
+                        <li>Grocery & Staples</li>
+                    </ul>
+                </div>
+                <div>
+                    <ul>
+                        <h3>Useful Links</h3>
+                        <li>Home</li>
+                        <li>Shop</li>
+                        <li>About Us</li>
+                        <li>Blog</li>
+                        <li>Contact Us</li>
+                    </ul>
+                </div>
+                <div>
+                    <ul>
+                        <h3>Help Center</h3>
+                        <li>Your Order</li>
+                        <li>Your Account</li>
+                        <li>Track Order</li>
+                        <li>Your Wishlist</li>
+                        <li>Search</li>
+                        <li>FAQ</li>
+                    </ul>
+                </div>
+                <div>
+                    <h3>Contact Us</h3>
+                    <p>
+                        Hotline 24/7: <br>+91 888 104 2340
+                    </p>
+
+                </div>
+            </footer>
+            <script src="../script/carrito.js"></script>
+</body>
+
+</html>

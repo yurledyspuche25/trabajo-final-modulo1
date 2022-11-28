@@ -1,0 +1,176 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "azucar",
+      "type": "grocery",
+      "price": 15000,
+      "image_product": "https://www.incauca.com/wp-content/uploads/2016/06/AZ%C3%9ACAR-INCAUCA-MORENA-5KG.jpg",
+      "cantidad": 1
+    },
+    {
+      "id": 2,
+      "name": "vino",
+      "type": "drink",
+      "price": 35000,
+      "image_product": "https://e7.pngegg.com/pngimages/632/481/png-clipart-shiraz-cabernet-sauvignon-penfolds-red-wine-limit-for-lease-wine-wine-bottle.png",
+      "cantidad": 1
+    },
+    {
+      "name": "Pimenton x 400g",
+      "type": "vegetableFruits",
+      "price": "4000",
+      "image_product": "https://w7.pngwing.com/pngs/877/980/png-transparent-bell-pepper-chili-pepper-health-nutrition-capsicum-annuum-var-acuminatum-health-natural-foods-food-nutrition.png",
+      "id": 2,
+      "cantidad": 1
+    },
+    {
+      "name": "Brocoli x 2kg",
+      "type": "vegetableFruits",
+      "price": "8000",
+      "image_product": "https://img1.freepng.es/20171221/qxw/broccoli-png-picture-5a3bd6c7941a24.1680544215138710476066.jpg",
+      "id": 3,
+      "cantidad": 1
+    },
+    {
+      "id": 4,
+      "name": "manzana x 1kg",
+      "type": "vegetableFruits",
+      "price": 10000,
+      "image_product": "https://img2.freepng.es/20180309/fdq/kisspng-juice-apple-fruit-stock-photography-red-apple-5aa27337a91372.5239631415205957676925.jpg",
+      "cantidad": 1
+    },
+    {
+      "id": 5,
+      "name": "Cocacola",
+      "type": "bebidas",
+      "price": 8000,
+      "image_product": "https://www.freeiconspng.com/thumbs/coca-cola-png/bottle-coca-cola-png-transparent-2.png",
+      "cantidad": 1
+    },
+    {
+      "id": 6,
+      "name": "sprite",
+      "type": "meat",
+      "price": 18000,
+      "image_product": "https://cdn-icons-png.flaticon.com/512/684/684736.png",
+      "cantidad": 1
+    },
+    {
+      "id": 7,
+      "name": "huevos x 30",
+      "type": "breakfast",
+      "price": 20000,
+      "image_product": "https://e7.pngegg.com/pngimages/636/47/png-clipart-rest-assured-eggs-product-kind-pollution-free-soil-eggs.png",
+      "cantidad": 1
+    },
+    {
+      "id": 8,
+      "name": "Pescado Congelado",
+      "type": "frozen",
+      "price": 20000,
+      "image_product": "https://w7.pngwing.com/pngs/86/721/png-transparent-seafood-fish-as-food-sashimi-frozen-food-fish-and-seafood-products-in-kind-clam-sashimi-web-design-food-animals-thumbnail.png",
+      "cantidad": 1
+    },
+    {
+      "id": 9,
+      "name": "galleta",
+      "type": "snack",
+      "price": 5000,
+      "image_product": "https://w7.pngwing.com/pngs/912/746/png-transparent-marie-biscuit-cream-cookie-cake-milk-treacle-tart-wafer-cream-baked-goods-food.png",
+      "cantidad": 1
+    },
+    {
+      "id": 11,
+      "name": "arroz",
+      "type": "grocery",
+      "price": 15000,
+      "image_product": "https://www.arrozroa.com/landingarrozroa/wp-content/uploads/2019/12/arroz-roa-fortiplus.png",
+      "cantidad": 1
+    },
+    {
+      "id": 12,
+      "name": "azucar",
+      "type": "grocery",
+      "price": 15000,
+      "image_product": "https://www.incauca.com/wp-content/uploads/2016/06/AZ%C3%9ACAR-INCAUCA-MORENA-5KG.jpg",
+      "cantidad": 1
+    },
+    {
+      "id": 14,
+      "name": "sprite",
+      "type": "meat",
+      "price": 18000,
+      "image_product": "https://cdn-icons-png.flaticon.com/512/684/684736.png",
+      "cantidad": 1
+    },
+    {
+      "id": 15,
+      "name": "huevos x 30",
+      "type": "breakfast",
+      "price": 20000,
+      "image_product": "https://e7.pngegg.com/pngimages/636/47/png-clipart-rest-assured-eggs-product-kind-pollution-free-soil-eggs.png",
+      "cantidad": 1
+    },
+    {
+      "id": 16,
+      "name": "Pescado Congelado",
+      "type": "Frozen",
+      "price": 20000,
+      "image_product": "https://w7.pngwing.com/pngs/86/721/png-transparent-seafood-fish-as-food-sashimi-frozen-food-fish-and-seafood-products-in-kind-clam-sashimi-web-design-food-animals-thumbnail.png",
+      "cantidad": 1
+    },
+    {
+      "id": 17,
+      "name": "galleta",
+      "type": "snack",
+      "price": 5000,
+      "image_product": "https://w7.pngwing.com/pngs/912/746/png-transparent-marie-biscuit-cream-cookie-cake-milk-treacle-tart-wafer-cream-baked-goods-food.png",
+      "cantidad": 1
+    },
+    {
+      "id": 18,
+      "name": "arroz",
+      "type": "grocery",
+      "price": 15000,
+      "image_product": "https://www.arrozroa.com/landingarrozroa/wp-content/uploads/2019/12/arroz-roa-fortiplus.png",
+      "cantidad": 1
+    },
+    {
+      "id": 19,
+      "name": "azucar",
+      "type": "grocery",
+      "price": 15000,
+      "image_product": "https://www.incauca.com/wp-content/uploads/2016/06/AZ%C3%9ACAR-INCAUCA-MORENA-5KG.jpg",
+      "cantidad": 1
+    },
+    {
+      "id": 20,
+      "name": "vino",
+      "type": "drink",
+      "price": 35000,
+      "image_product": "https://e7.pngegg.com/pngimages/632/481/png-clipart-shiraz-cabernet-sauvignon-penfolds-red-wine-limit-for-lease-wine-wine-bottle.png",
+      "cantidad": 1
+    },
+    {
+      "id": 21,
+      "name": "arroz",
+      "type": "grocery",
+      "price": 15000,
+      "image_product": "https://www.arrozroa.com/landingarrozroa/wp-content/uploads/2019/12/arroz-roa-fortiplus.png",
+      "cantidad": 1
+    }
+  ],
+  "favorites": [
+    
+  ],
+  "carro":[
+
+  ],
+  "buy": [
+
+  ],
+  "data": [
+    
+  ]
+}
